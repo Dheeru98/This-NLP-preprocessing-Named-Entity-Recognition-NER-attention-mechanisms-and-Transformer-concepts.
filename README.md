@@ -1,7 +1,6 @@
 
 
-**Student Name:** Dheerendra Todeti  
-**Student ID:** dxt16330  
+**Student Name:** Dheerendra Todeti    
 **Course:** Neural Network and Deep Learning  
 
 
